@@ -1,5 +1,6 @@
 # handwrittern-text-detection
-TCS iON 210 Internship
+TCS iON 210 Internship:
+
 Automate Identification &amp; Recognition of Handwritten Text from an Image
 
 Dataset Used Link: https://drive.google.com/drive/folders/15lYLOpxkuqrdA3KVOaNg2XSeUIBJOYcI?usp=sharing
